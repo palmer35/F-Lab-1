@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "F# (Lab-1) - 1", "F# (Lab-0)\F# (Lab-1) - 1.fsproj", "{2DB2A94C-5763-4691-A0ED-66F966C0AF30}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "F# (Lab-1) - 2", "lab-F# (1) - 1\F# (Lab-1) - 2.fsproj", "{F9600A88-8034-4871-A599-88FDBFA642BD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "F# (Lab-1) - 3", "F# (Lab-1) - 3\F# (Lab-1) - 3.fsproj", "{9B930346-810C-4536-8361-70ABAEB949DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB2A94C-5763-4691-A0ED-66F966C0AF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB2A94C-5763-4691-A0ED-66F966C0AF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB2A94C-5763-4691-A0ED-66F966C0AF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB2A94C-5763-4691-A0ED-66F966C0AF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9600A88-8034-4871-A599-88FDBFA642BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9600A88-8034-4871-A599-88FDBFA642BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9600A88-8034-4871-A599-88FDBFA642BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9600A88-8034-4871-A599-88FDBFA642BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B930346-810C-4536-8361-70ABAEB949DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B930346-810C-4536-8361-70ABAEB949DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B930346-810C-4536-8361-70ABAEB949DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B930346-810C-4536-8361-70ABAEB949DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
